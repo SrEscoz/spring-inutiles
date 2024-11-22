@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>net.escoz</groupId>
-    <artifactId>students-bff</artifactId>
+    <artifactId>spring-inutiles</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>students-bff</name>
-    <description>students-bff</description>
+    <name>spring-inutiles</name>
+    <description>spring-inutiles</description>
     <url/>
     <licenses>
         <license/>
